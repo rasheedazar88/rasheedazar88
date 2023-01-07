@@ -1,5 +1,8 @@
-<!-- <img src='/rasheed.gif' /> -->
+
 # Hi, I'm Abdul Rasheed Azar 👋🏾
+
+<img src='/Gif.gif' />
+
 🔭 I’m currently working on CustomerLabs projects https://app.customerlabs.com/<br><br>👯 I’m looking to collaborate on an opensource project and freelancing<br><br>🤝 I’m looking for help with MERN stack applications, especially in eCommerce <br><br>🌱 I’m currently learning Nodejs and python<br><br>💬 Ask me about Front end development (HTML, CSS, JavaScript), Shopify theme development, and  Shopify app development<br><br>📫 You can reach me at rasheedazar88@gmail.com or Whatsapp only (+919788053319).  <br><br>👨‍💻 All of my projects are available at https://rasheed-portfolios.netlify.app/ (Will update soon)<br><br>📄 Know about my experiences https://rasheed-portfolios.netlify.app/<br><br><br>
 
 
